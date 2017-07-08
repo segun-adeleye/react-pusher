@@ -1,0 +1,5 @@
+export const AUTH_CONFIG = {
+  domain: 'yourname.auth0.com',
+  clientId: '<CLIENT_ID>',
+  callbackUrl: '<APP_CALLBACK_URL>'
+}

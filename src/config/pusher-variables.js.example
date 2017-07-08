@@ -1,0 +1,7 @@
+export const PUSHER_CONFIG = {
+  appId: '<pusher appId>',
+  key: '<pusher key>',
+  secret: '<pusher secret>',
+  cluster: '<pusher cluster>',
+  encrypted: <boolean>
+};
